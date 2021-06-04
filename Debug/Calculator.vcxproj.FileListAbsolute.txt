@@ -1,0 +1,2 @@
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\Debug\Calculator.exe
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\Debug\Calculator.pdb

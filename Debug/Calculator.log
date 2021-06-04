@@ -1,0 +1,18 @@
+﻿  utils.c
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(24,15): warning C4820: node_struct: "3"-байтовые поля добавлены после данные-член "operatorChar"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(25,21): warning C4820: node_struct: "4"-байтовые поля добавлены после данные-член "varName"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(28,17): warning C4255: initNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(30,22): warning C4255: initValueNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(34,25): warning C4255: initOperatorNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(38,25): warning C4255: initFunctionNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(42,28): warning C4255: initOpenBracketNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(44,31): warning C4255: initClosingBracketNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodes.h(46,26): warning C4255: initSeparatorNode: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\nodestack.h(21,23): warning C4255: initStack: прототип функции не задан: преобразование "()" в "(void)"
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(151): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(147) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(151) : Примечание. Вызов веб-каналов в этой строке
+D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(232): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(228) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  D:\Files\Visual Studio projects\C lectures\calculator\Calculator\utils.c(232) : Примечание. Вызов веб-каналов в этой строке
+  Calculator.vcxproj -> D:\Files\Visual Studio projects\C lectures\calculator\Calculator\Debug\Calculator.exe
