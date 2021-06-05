@@ -1,5 +1,5 @@
 # Calculator
-Uni project of building a calculator with function, variable and imaginary numbers support
+Uni project building a calculator with function, variable and imaginary numbers support
 
 ## Usage
 Launch with */i* and */o* parameters
